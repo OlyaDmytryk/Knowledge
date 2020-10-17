@@ -1,4 +1,4 @@
-package dataTypes.exercise03;
+package org.example.dataTypes.exercise03;
 
 public class Exercise03 {
     public static void main(String[] args){
